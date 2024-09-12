@@ -1,0 +1,18 @@
+# Ignorar archivos temporales
+*.tmp
+*.swp
+
+# Ignorar archivos de caché
+.cache/
+.idea/
+
+# Ignorar archivos de compilación
+build/
+dist/
+
+# Ignorar entornos virtuales
+venv/
+env/
+
+# Ignorar archivos de base de datos
+db.sqlite3
